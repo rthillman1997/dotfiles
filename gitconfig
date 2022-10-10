@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Ryan Hillman rthillman1997@gmail.com
+	email = rthillman1997@gmail.com
+	name = Ryan Hillman
